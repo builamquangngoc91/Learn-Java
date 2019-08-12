@@ -1,4 +1,4 @@
-package com.ngoc.springdemo;
+ package com.ngoc.springdemo;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
