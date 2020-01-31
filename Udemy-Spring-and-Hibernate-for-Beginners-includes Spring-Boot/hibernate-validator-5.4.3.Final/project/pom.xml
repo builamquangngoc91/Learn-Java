@@ -149,7 +149,7 @@
         <apache.karaf.version>4.0.7</apache.karaf.version>
         <osgi-core.version>6.0.0</osgi-core.version>
 
-        <puppycrawl.checkstyle.version>7.1</puppycrawl.checkstyle.version>
+        <puppycrawl.checkstyle.version>8.29</puppycrawl.checkstyle.version>
 
         <groovy.version>2.4.8</groovy.version>
 
